@@ -17,7 +17,7 @@ This workshop includes a detailed introduction on how to use a High Performance 
 
 ## Instructor 
 
-<b>Soc 361: Historical and Contemporary Sociological Theory</b> [[Syllabus]](files/Sociology Theory Syllabus.pdf) <br>
+<b>Soc 361: Historical and Contemporary Sociological Theory</b> [[Syllabus]](files/Sociology_Theory_Syllabus.pdf) <br>
 Undergraduate Course, Sociology Department, Stony Brook University, Summer 2020 <br>
 
 ## Teaching Assistant 
