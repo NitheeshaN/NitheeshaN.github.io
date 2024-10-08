@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number One"
+title: "Attention to the COVID-19 Pandemic on Twitter: Partisan Differences among U.S. State Legislators"
 collection: publications
 category: manuscripts
 #permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'Legislative Studies Quarterly'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1111/lsq.12367'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Kim, Taegyoon, Nitheesha Nakka, Ishita Gopal, Bruce A. Desmarais, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick J. Boehmke. (2022). &quot;Attention to the COVID‐19 Pandemic on Twitter: Partisan Differences Among US State Legislators.&quot; <i>Legislative studies quarterly</i>. 47(4):1023-1041.'
 ---
 
-The contents above will be part of a list of PUBLICATIONS, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Subnational governments in the United States have taken the lead on many aspects of the response to the COVID-19 pandemic. Variation in government activity across states offers the opportunity to analyze responses in comparable settings. We study a common and informative activity among state officials—state legislators’ attention to the pandemic on Twitter. We find that legislators’ attention to the pandemic strongly correlates with the number of cases in the legislator’s state, the national count of new deaths, and the number of pandemic-related public policies passed within the legislator’s state. Furthermore, we find that the degree of responsiveness to pandemic indicators differs significantly across political parties, with Republicans exhibiting weaker responses, on average. Lastly, we find significant differences in the content of tweets about the pandemic by Democratic and Republican legislators, with Democrats focused on health indicators and impacts, and Republicans focused on business impacts and opening the economy.
