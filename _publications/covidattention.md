@@ -2,7 +2,7 @@
 title: "Attention to the COVID-19 Pandemic on Twitter: Partisan Differences among U.S. State Legislators"
 collection: publications
 category: manuscripts
-permalink: /publication/CovidAttention
+permalink: /publication/covidattention
 excerpt: 'State Legislators, X, Covid19, Partisanship'
 date: 2021-10-01
 venue: 'Legislative Studies Quarterly'
