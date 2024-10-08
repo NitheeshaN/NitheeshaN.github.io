@@ -17,11 +17,11 @@ This workshop includes a detailed introduction on how to use a High Performance 
 
 ## Instructor 
 
-<b>Soc 361: Historical and Contemporary Sociological Theory</b> [[Syllabus]](files/Sociology_Theory_Syllabus.pdf) <br>
+<b>Soc 361: Historical and Contemporary Sociological Theory</b> [[Syllabus]](/files/Sociology_Theory_Syllabus.pdf) <br>
 Undergraduate Course, Sociology Department, Stony Brook University, Summer 2020 <br>
 
 ## Teaching Assistant 
 
-<b>PLSC 476: Analyzing the American Presidency</b> [[Syllabus]](files/497_fall_22_syllabus.pdf) <br>
+<b>PLSC 476: Analyzing the American Presidency</b> [[Syllabus]](/files/497_fall_22_syllabus.pdf) <br>
 Undergraduate Course, Political Science Department, Pennsylvania State University, Fall 2022 <br>
 Professor Eleanor Schiff<br>
