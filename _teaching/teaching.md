@@ -22,6 +22,6 @@ Undergraduate Course, Sociology Department, Stony Brook University, Summer 2020 
 
 ## Teaching Assistant 
 
-<b>PLSC 476: Analyzing the American Presidency</b> [[Syllabus]](NitheeshaN.github.io/files/497_Fall_22_syllabus.docx) <br>
+<b>PLSC 476: Analyzing the American Presidency</b> [[Syllabus]]([NitheeshaN.github.io/files/497_Fall_22_syllabus.docx](https://github.com/NitheeshaN/PLSC-497) <br>
 Undergraduate Course, Political Science Department, Pennsylvania State University, Fall 2022 <br>
 Professor Eleanor Schiff<br>
