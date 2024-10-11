@@ -17,11 +17,11 @@ This workshop includes a detailed introduction on how to use a High Performance 
 
 ## Instructor 
 
-<b>SOC 361: Historical and Contemporary Sociological Theory</b> [[Syllabus]](NitheeshaN.github.io/files/Soc361_syllabus.pdf) <br>
+<b>SOC 361: Historical and Contemporary Sociological Theory</b> [[Syllabus]](https://github.com/NitheeshaN/SOC-361/blob/main/Sociology%20Theory%20Syllabus.pdf) <br>
 Undergraduate Course, Sociology Department, Stony Brook University, Summer 2020 <br>
 
 ## Teaching Assistant 
 
-<b>PLSC 476: Analyzing the American Presidency</b> [[Syllabus]]([NitheeshaN.github.io/files/497_Fall_22_syllabus.docx](https://github.com/NitheeshaN/PLSC-497) <br>
+<b>PLSC 476: Analyzing the American Presidency</b> [[Syllabus]](https://github.com/NitheeshaN/PLSC-497/blob/main/497_Fall_22_syllabus.pdf) <br>
 Undergraduate Course, Political Science Department, Pennsylvania State University, Fall 2022 <br>
 Professor Eleanor Schiff<br>
