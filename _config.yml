@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Nitheesha Nakka"
 title_separator          : "-"
 name                     : &name "Nitheesha Nakka"
-description              : &description "PhD Candidate in Political Science and Social Data Analytics at Pennsylvania State University"
+description              : &description "PhD in Political Science and Social Data Analytics"
 url                      : https://NitheeshaN.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "Nakka_medium_headhost.jpg"
   name             : "Nitheesha Nakka"
   pronouns         : "she/her"  
-  bio              : "PhD Candidate in Political Science and Social Data Analytics"
+  bio              : "PhD in Political Science and Social Data Analytics"
   location         : #"Earth"
-  employer         : "Pennsylvania State University"
+  employer         : "Princeton University"
   uri              : # URL
-  email            : "nvn5240@psu.edu" 
+  email            : "nitheesha.nakka@princeton.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
