@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am the Senior Data Science Specialist at the Niehaus Center for Globalization and Governance (NCGG) at Princeton University. In this role, I serve as the center's Data Science Consultant. I advise researchers on political economy projects, answering methodological questions, and teaching applied computational methods. I also maintain the Sovereign Finance Lab database, overseeing data wrangling, integrity, and documentation. 
+Hello! I am the Senior Research Specialist at the Niehaus Center for Globalization and Governance (NCGG) at Princeton University. In this role, I serve as the center's Data Science Specialist. I advise researchers on political economy projects, answering methodological questions, and teaching applied computational methods. I also maintain the Sovereign Finance Lab database, overseeing data wrangling, integrity, and documentation. 
 
 Previously, I received my PhD in Political Science and Social Data Analytics at Pennsylvania State University. I also served as a Research Associate and Adjunct Researcher at the RAND Corporation where I was part of the Women, Peace and Security Initiative in conjunction with the United States Cyber Command. My broader research addresses key questions regarding model improvement and evaluation, inequality, and the risks and opportunities of AI/emergent technologies in modern American politics. I apply a variety of computational social science methods in my research. My methodological interests include machine learning, LLMs, natural language processing, network analysis, causal inference and time series analysis. 
 
