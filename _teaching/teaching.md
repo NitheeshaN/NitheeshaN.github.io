@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Workshops
+<b>Summer 2026: Inside an LLM: The Inference Pipeline </b> [[Slides]](https://github.com/NitheeshaN/Intro-to-LLM-Inference-Pipeline) <br>
+Niehaus Center for Globalization and Governance, Princeton University <br>
+This lesson provides a conceptual understanding of what happens inside an LLM step by step when generating text. I break up the inference pipeline into 7 stages and explain the mechanics occuring within each stage. Slides include intuitive examples and visuals. Though this presentation highlights the 'Inference' piepline the core physics of LLMs outlined in this lesson are also present in training pipelines.
 
 <b>Spring 2024: Introduction to ROAR Collab: Interactive Jupyter Notebook and R Studio Sessions </b> [[Slides]](https://github.com/NitheeshaN/ROAR-Collab/) <br>
 Center for Social Data Analytics, Penn State University <br>
