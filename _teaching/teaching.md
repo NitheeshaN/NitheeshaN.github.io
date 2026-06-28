@@ -28,3 +28,15 @@ Undergraduate Course, Sociology Department, Stony Brook University, Summer 2020 
 <b>PLSC 476: Analyzing the American Presidency</b> [[Syllabus]](https://github.com/NitheeshaN/PLSC-497/blob/main/497_Fall_22_syllabus.pdf) <br>
 Undergraduate Course, Political Science Department, Pennsylvania State University, Fall 2022 <br>
 Professor Eleanor Schiff<br>
+
+<b>SOC 340: Media and Society</b> <br>
+Undergraduate Course, Sociology Department, Stony Brook University, Spring 2020 <br>
+Professor Jason Jones <br>
+
+<b>SOC 319: Research Methods</b> <br>
+Undergraduate Course, Sociology Department, Stony Brook University, Spring 2019 <br>
+Professor Arushi Bhandari <br>
+
+<b>SOC 340: Gender and Reproduction</b> <br>
+Undergraduate Course, Sociology Department, Stony Brook University, Spring 2018 <br>
+Professor Catherine Marrone <br>
